@@ -38,6 +38,8 @@ func main() {
 		}
 	}()
 
+	// https://www.golang-book.com/books/intro/11
+
 	var input string
 	fmt.Scanln(&input)
 
